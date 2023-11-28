@@ -12,6 +12,8 @@ public class Driver {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter how many stars you want, and what size.");
+		System.out.println("mess up everything");
+
 		int starnumber = scan.nextInt();
 		int starsize = scan.nextInt();
 		JFrame frame = new JFrame("Stars");
