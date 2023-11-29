@@ -11,7 +11,7 @@ public class StarPanel extends JPanel {
 
 	private int[] XOnStarFromCenter = { -4, -10, -2, 0, 2, 10, 4, 6, 0, -6 };
 	private int[] YOnStarFromCenter = { 0, 4, 4, 10, 4, 4, 0, -10, -4, -10 };
-
+System.out.println("Why does this work?");
 	Random generator;
 	int starnumber;
 
